@@ -48,12 +48,6 @@ Unordered list elements can be used to organize content on a webpage in a number
 
 
 
-Instructions
-1.
-Our navbar will go above the company heading h1 element, so first we will need to create some new lines. In index.html, press enter to create several new lines between <body> and <h1>.
-
-First, we will create an h2 element to serve as the heading for the navbar. The text can read “Ollie”.
-
 <h2>Ollie</h2>
 Run your code to continue.
 
@@ -71,34 +65,7 @@ After you insert all the list items, don’t forget to close the unordered list 
 
 Run your code to view the results in the web browser.
 
-Checkpoint 3 Passed
-Anchor Elements
-=================
 
-Nice work! The webpage is starting to come together.
-
-What if you wanted to link users to a different webpage? The HTML anchor element makes it possible to do this with a single click.
------------------------------------------------------------------------------------------------------------------------------------
-
-<a href="http://google.com">Click here for Google!</a>
-Anchor elements use an attribute to link users to websites. Attributes customize the behavior or appearance of HTML elements. Anchor elements use the href attribute, which specifies the webpage to link to. In the example above, the text “Click here for Google!” links to http://google.com.
-
-
-
-IMPORTANT: Web addresses, such as http://google.com, have a technical name: URL.
----------------------------------------------------------------------------------
-
-Instructions
-1.
-Let’s create an anchor element to send visitors to a webpage that lists cities where Ollie bike sharing is available.
-
-Between the opening <p> and closing </p> tags, after the last sentence, enter this text:
-
-Here is a list of cities where you can find us. 
-Run your code to continue.
-
-Checkpoint 2 Passed
-2.
 Next, use an anchor element to link the word “list” to the URL cities.html.
 
 Here is a <a href="cities.html">list</a> of cities where you can find us. 
@@ -122,4 +89,10 @@ Headings are a frequently used HTML element. You can think of them like headline
 There are six heading elements: h1, h2, h3, h4, h5, and h6. h1 is the largest heading and h6 is the smallest.
 
 For best practice, you should avoid skipping heading levels. There should also be only one <h1> per HTML page. Although skipping heading levels or using multiple <h1> elements will not cause errors in your code, it is important to keep >
+
+
+The following is the folder with this project
+
+/c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/HOW_TO_MAKE_A_WEBSITE
+
 
